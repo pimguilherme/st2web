@@ -1,4 +1,4 @@
-FROM node:14.16.1
+FROM node:14.19.1
 
 # Create app directory
 WORKDIR /opt/stackstorm/static/webui/st2web
